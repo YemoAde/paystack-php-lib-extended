@@ -1,6 +1,5 @@
 {
     "name": "yemoade/paystack-php-lib-extended",
-    "version": "1.0.1",
     "description": "A PHP Library for https://paystack.co. An Extension from MAbiola Paystack Library",
     "keywords": ["library", "Paystack"],
     "type": "library",
